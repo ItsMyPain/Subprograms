@@ -7,6 +7,9 @@ struct subvector {
 	unsigned int capacity;
 };
 
+ЫВ
+ываывва
+
 bool init(subvector* qv)
 {
 	qv->mas = NULL;
