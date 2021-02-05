@@ -6,7 +6,6 @@ struct subvector {
 	unsigned int top;
 	unsigned int capacity;
 };
-ХУй
 
 bool init(subvector* qv)
 {
