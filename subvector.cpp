@@ -1,13 +1,12 @@
 ﻿#include <iostream>
 using namespace std;
 
-struct subvector {
-	int* mas;
+class subvector{
+    int* mas;
 	unsigned int top;
 	unsigned int capacity;
-};
 
-блалблаблаблаба
+};
 
 bool init(subvector* qv)
 {
